@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.banner {
+  height: 200px;
+  width: 100%;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.section {
+  border: 1px solid red;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+
+iframe {
+  padding: 0 10% 0 10%;
+}
+
+.section-left {
+  float: left;
+  width: 74%;
+}
+
+.section-right {
+  border: 1px solid blue;
+  float: right;
+  width: 25%;
+}
